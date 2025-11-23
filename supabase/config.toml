@@ -1,0 +1,10 @@
+project_id = "pjkycbgtjghdarmlozxe"
+
+[functions.analyze-symptoms]
+verify_jwt = true
+
+[functions.suggest-treatment]
+verify_jwt = true
+
+[functions.summarize-records]
+verify_jwt = true
